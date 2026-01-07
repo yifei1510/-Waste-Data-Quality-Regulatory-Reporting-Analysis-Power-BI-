@@ -67,6 +67,13 @@ Year
 
 <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/e72987f8-8608-4c20-a5c7-07e384e8d2dd" />
 
+<img width="940" height="615" alt="image" src="https://github.com/user-attachments/assets/bcb3e55c-cef3-4025-a786-4ebc7122194a" />
+
+<img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/a17f849c-fece-4b3c-a982-b9fc27432261" />
+
+<img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/33b0df0a-1fd4-4a84-a789-f02c56d0e76e" />
+
+<img width="940" height="521" alt="image" src="https://github.com/user-attachments/assets/e7bd94ea-631e-4c71-9efb-f268b6bdc037" />
 
 
 
