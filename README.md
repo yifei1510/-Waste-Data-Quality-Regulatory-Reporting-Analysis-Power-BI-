@@ -63,6 +63,9 @@ Source stream
 Management method
 
 Year
+<img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/03783791-3700-404a-82bd-4778d6205075" />
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/5d918267-1fd4-4ac1-a882-9ef6902b2620" />
+
 
 ## Tools & Skills Demonstrated
 
@@ -81,6 +84,7 @@ Regulatory Reporting Context: Environmental and public-sector analytics mindset
 Identified inconsistent reporting patterns across jurisdictions that affect data comparability
 
 Highlighted year-on-year variations in waste flows that may indicate data quality or reporting issues
+
 
 Demonstrated how structured dashboards improve the interpretability of complex regulatory datasets
 
