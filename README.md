@@ -1,12 +1,12 @@
-♻️ Waste Data Quality & Regulatory Reporting Analysis (Power BI)
-Executive Summary
+# ♻️ Waste Data Quality & Regulatory Reporting Analysis (Power BI)
+## Executive Summary
 
 This project focuses on preparing and analysing waste management data to support regulatory reporting and environmental decision-making.
 Using multi-year waste datasets, I cleaned and standardised raw data, validated reporting readiness, and built interactive Power BI dashboards to summarise waste flows, management methods, and year-on-year trends across jurisdictions.
 
 The analysis highlights data quality issues, unusual variations, and reporting patterns that may require further investigation, supporting early-stage risk identification rather than formal compliance assessment.
 
-Business Problem
+## Business Problem
 
 Environmental regulators rely on accurate, consistent, and comparable waste data to support reporting, risk monitoring, and policy development.
 
@@ -22,7 +22,7 @@ Variations that are difficult to interpret without structured analysis
 
 The objective of this project was to prepare regulatory-ready data and provide clear analytical summaries that enable stakeholders to better understand waste flows and trends across jurisdictions and categories.
 
-Dataset & Context
+## Dataset & Context
 
 Multi-year waste data covering multiple jurisdictions, waste categories, source streams, and management methods
 
@@ -30,9 +30,9 @@ Data structure reflects real-world regulatory reporting challenges, rather than 
 
 Project designed to simulate public-sector reporting and analysis workflows
 
-Methodology
+## Methodology
 
-Data Cleaning & Standardisation
+### Data Cleaning & Standardisation
 
 Normalised financial year formats (e.g. 2022–23 → 2022–2023)
 
@@ -40,7 +40,7 @@ Resolved inconsistent jurisdiction/state naming conventions
 
 Ensured consistent units of measurement across all records
 
-Data Validation & Reporting Readiness
+### Data Validation & Reporting Readiness
 
 Checked completeness across 100% of records used for reporting
 
@@ -48,7 +48,7 @@ Performed basic input–output alignment checks to support mass balance readines
 
 Reviewed year-on-year movements to identify unusual or inconsistent patterns
 
-Analysis & Visualisation
+### Analysis & Visualisation
 
 Built a Power BI data model to support repeatable, multi-dimensional analysis
 
@@ -64,7 +64,7 @@ Management method
 
 Year
 
-Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 Power BI: Data modelling, dashboards, interactive filters
 
@@ -76,7 +76,7 @@ Data Quality Management: Validation, consistency checks, anomaly identification
 
 Regulatory Reporting Context: Environmental and public-sector analytics mindset
 
-Key Insights
+## Key Insights
 
 Identified inconsistent reporting patterns across jurisdictions that affect data comparability
 
@@ -86,7 +86,7 @@ Demonstrated how structured dashboards improve the interpretability of complex r
 
 Showed the importance of data readiness as a prerequisite for downstream compliance or policy analysis
 
-Results & Impact
+## Results & Impact
 
 Produced regulatory-ready datasets suitable for reporting and further analysis
 
@@ -96,7 +96,7 @@ Improved clarity and transparency through decision-focused KPI dashboards
 
 Supported early-stage identification of potential risks without overstating compliance conclusions
 
-Limitations
+## Limitations
 
 This project focuses on data preparation and analytical support, not full regulatory mass balance assessments
 
@@ -104,7 +104,7 @@ No enforcement or compliance conclusions are drawn
 
 Findings are intended to support further investigation rather than replace formal regulatory processes
 
-Next Steps
+## Next Steps
 
 If extended further, this project could include:
 
@@ -116,11 +116,8 @@ Automated anomaly detection thresholds for ongoing monitoring
 
 Scenario analysis to support policy evaluation and planning
 
-Dashboard Preview
+## Dashboard Preview
 
 📊 Power BI dashboards included in this repository demonstrate KPI summaries, trend analysis, and jurisdiction-level comparisons.
 
-Disclaimer
 
-This is a personal data analytics project designed to demonstrate technical, analytical, and communication skills in a regulatory reporting context.
-It does not represent official regulatory analysis or enforcement outcomes.
