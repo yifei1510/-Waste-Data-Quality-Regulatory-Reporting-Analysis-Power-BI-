@@ -63,7 +63,10 @@ Source stream
 Management method
 
 Year
-<img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/74576d9f-f91f-4374-ab4d-bff6049baeea" />
+
+
+<img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/e72987f8-8608-4c20-a5c7-07e384e8d2dd" />
+
 
 
 
